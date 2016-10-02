@@ -1,1 +1,2 @@
 JavaFX - http://code.makery.ch/library/javafx-8-tutorial/pt/
+Integração GitHub / Eclipse - http://blog.camilolopes.com.br/usando-o-git-no-eclipse/
