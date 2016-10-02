@@ -16,7 +16,7 @@ Alertas por Email <br>
 
 # Contribuidores
 Luiz Amaral <br>
-Lucas Oliveira <br>
+Lukaz Oliveira <br>
 Lucas César <br>
 Lucas Noleto <br>
 Thiago Lopes <br>
