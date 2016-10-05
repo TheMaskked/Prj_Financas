@@ -1,8 +1,5 @@
 package controller;
 
 public class Conta {
-
-	public static void main(String[] args) {
-		System.out.println("Hello World!");
-	}
+// Teste da minha casa agora!
 }
